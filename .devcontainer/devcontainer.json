@@ -6,6 +6,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "rangav.vscode-thunder-client",
         "ms-azuretools.vscode-docker",
         "meezilla.json",
         "entuent.fira-code-nerd-font",
